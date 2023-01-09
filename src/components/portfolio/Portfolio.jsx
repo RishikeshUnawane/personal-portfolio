@@ -1,10 +1,9 @@
-import "./portfolio.scss"
+import "./Portfolio.scss"
 
-export default function 
-() {
+export default function Portfolio() {
   return (
     <div className='portfolio'>
-        
+
     </div>
   )
 }
